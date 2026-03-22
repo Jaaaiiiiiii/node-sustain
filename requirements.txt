@@ -1,5 +1,6 @@
 flask
 flask-socketio
 pyserial
+eventlet
 gspread
 oauth2client
